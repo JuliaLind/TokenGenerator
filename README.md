@@ -3,7 +3,7 @@ This is a simple script to mass-generate tokens.
 # GET STARTED
 
 ```npm install``` to install all neccessary dependencies
-add a .env file where you add your "jwt-secret", it could be any string preferrably 64 characters and will look like this
+add a .env file where you add your "jwt-secret", it could be any string preferrably 256 characters and will look like this
 
 ```JWT_SECRET = "5d9e0b327c674d279771aed90ad876165d9e0b327c674d279771aed90ad87616"``` in the .env file (this is also the secret used for the example data that is currently in the ./tokens/ directory)
 
