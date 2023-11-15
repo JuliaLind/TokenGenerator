@@ -7,8 +7,7 @@
 #
 
 #
-# Removes all .json and .csv files from '../bike-routes/'
-# and resets '../counter.json' bikes value to 1
+# Removes the .json and .csv files with tokens from ./tokens/ directory
 #
 function main {
     echo "Are you sure you want to reset?"
