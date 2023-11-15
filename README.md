@@ -13,6 +13,8 @@ And then standing in the root directory enter ```node main.js```to run the scrip
 
 Use ```./reset.bash``` to remove all previously generated data.
 
+You can check the validity of your generated JWT tokens and their payload here https://jwt.io/ 
+
 
 
 
